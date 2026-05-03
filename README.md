@@ -38,7 +38,7 @@ class AqeelZafar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/maqeelzafar47/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:maqeelstd@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/maqeelzafar047)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=%23FF7139&style=for-the-badge)](https://github.com/maqeelzafar047)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=%23FF7139&style=for-the-badge)](https://github.com/maqeelzafar047) -->
 
 </div>
 
@@ -138,8 +138,8 @@ class AqeelZafar:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=python&logoColor=white)
-![Apify](https://img.shields.io/badge/Apify-00C7B7?style=for-the-badge&logo=apify&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+<!-- ![Apify](https://img.shields.io/badge/Apify-00C7B7?style=for-the-badge&logo=apify&logoColor=white) -->
+<!-- ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white) -->
 
 ---
 
@@ -166,8 +166,8 @@ class AqeelZafar:
 🔍 NLP & Text AI           ███████████████████░  Senior
 👁️ Computer Vision         ██████████████████░░  Senior
 🌐 Full-Stack Development  █████████████████░░░  Senior
-📐 Deep Learning           ████████████████████  Expert
-☁️ Cloud & MLOps           ███████████████░░░░░  Proficient
+📐 Deep Learning           █████████████░░░░░░░  Strong
+☁️ Cloud & MLOps           ███████░░░░░░░░░░░░░  Medium
 ```
 
 ---
